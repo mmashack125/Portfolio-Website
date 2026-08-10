@@ -1,0 +1,40 @@
+body {
+    /*sets background color*/
+    background-color: #cacdfa; 
+    /*sets font of text*/
+    font-family: "Georgia", Georgia, 'Times New Roman', Times, serif;
+    /*aligns the text*/
+    text-align: left;
+    /*editing the margin*/
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+h1 {
+    /*sets color of header text*/
+    color: #131754;
+}
+
+p {
+    color: #0d114a;
+}
+h3 {
+    color: #131754;
+    margin-bottom: 3px;
+}
+/*customizing looks for hyperlinked buttons*/
+a {
+    text-decoration: none; /*removes the default style of link*/
+    background-color: #3a41b0;
+    color: white;
+    padding: 10px 20px;
+    display: inline-block;
+    /*adjusting the border color and thickness*/
+    border: #131754 3px;
+    cursor: pointer;
+}
+
+/*how button appears when user hovers with their cursor*/
+a:hover {
+    background-color: #3037a1;
+}
