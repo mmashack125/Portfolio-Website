@@ -1,0 +1,1 @@
+This is a website showcasing my projects, as well as details about myself and my tech stack. This project utilizes my design and UI skills, as well as teaches me the HTML, JavaScript, and CSS languages.
